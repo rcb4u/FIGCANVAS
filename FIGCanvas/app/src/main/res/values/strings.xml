@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FIGCanvas</string>
+    <string name="transition_image">transition:IMAGE</string>
+</resources>
